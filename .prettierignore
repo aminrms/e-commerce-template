@@ -1,0 +1,21 @@
+*.json
+
+# private things to ignore
+**/.ignoreme
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# vercel
+.vercel
